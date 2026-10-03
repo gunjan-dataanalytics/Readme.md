@@ -46,7 +46,7 @@ To become a skilled **Data Analyst** who can transform complex data into clear a
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: gunjanthapa16@gmail.com
 - 🐙 GitHub: [Gunjan Thapa](https://github.com/YOUR_USERNAME)
 
 ---
